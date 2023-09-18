@@ -1,0 +1,15 @@
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\bin\Debug\net6.0\Xestexana.exe
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\bin\Debug\net6.0\Xestexana.deps.json
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\bin\Debug\net6.0\Xestexana.runtimeconfig.json
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\bin\Debug\net6.0\Xestexana.dll
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\bin\Debug\net6.0\Xestexana.pdb
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.csproj.AssemblyReference.cache
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.AssemblyInfoInputs.cache
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.AssemblyInfo.cs
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.csproj.CoreCompileInputs.cache
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.dll
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\refint\Xestexana.dll
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.pdb
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\Xestexana.genruntimeconfig.cache
+C:\Users\Rubail\source\repos\Xestexana\Xestexana\obj\Debug\net6.0\ref\Xestexana.dll
